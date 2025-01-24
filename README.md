@@ -1,10 +1,10 @@
 -I'm Aran. Second year student.
 
--experience with JAVA and C lenguage.
+-experience with JAVA, C and Python lenguage.
 
 -I'm started to use github to have more experience in the field programming.
 
--In the future I would like get into Python and HTML.
+-In the future I would like get into HTML.
 
 
 <!---
