@@ -28,7 +28,7 @@
 <h2 align="center">🌐 Visita mi portafolio</h2>
 
 <div align="center">
-  <a href="https://tu-portafolio.com" target="_blank" rel="noopener noreferrer">
+  <a href="https://shiny-ganache-4d0172.netlify.app" target="_blank" rel="noopener noreferrer">
     <button style="
       background: linear-gradient(90deg, #0072ff 0%, #00c6ff 100%);
       border: none;
