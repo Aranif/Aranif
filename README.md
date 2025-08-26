@@ -25,3 +25,26 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5" title="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3" title="CSS3"/>
 </div>
+<h2 align="center">🌐 Visita mi portafolio</h2>
+
+<div align="center">
+  <a href="https://tu-portafolio.com" target="_blank" rel="noopener noreferrer">
+    <button style="
+      background: linear-gradient(90deg, #0072ff 0%, #00c6ff 100%);
+      border: none;
+      border-radius: 8px;
+      color: white;
+      padding: 14px 32px;
+      margin: 16px 0;
+      font-size: 1.2em;
+      font-family: inherit;
+      cursor: pointer;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+      transition: background 0.3s;
+    "
+    onmouseover="this.style.background='linear-gradient(90deg, #00c6ff 0%, #0072ff 100%)'"
+    onmouseout="this.style.background='linear-gradient(90deg, #0072ff 0%, #00c6ff 100%)'">
+      🚀 Ir a mi portafolio
+    </button>
+  </a>
+</div>
